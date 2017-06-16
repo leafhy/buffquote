@@ -12,4 +12,4 @@ Place `buffquote` in users home
 
 Verified on Salix Os 14.1 and Osx 10.6.8
 
-Source avilable from http://www.scottro.net
+Source available from http://www.scottro.net
