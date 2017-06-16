@@ -8,7 +8,7 @@
 # (RANDOM%280+1) 280 is the total number of quotes - change as needed
 ##########################################################################################
 # place buffquote in /home/user
-# add the entry sh ~/buffquote to .profile or .bashrc and save in /home/user
+# add the entry sh ~/buffquote to .profile or possibly .bashrc and save in /home/user
 ##########################################################################################
 clear
 case $((RANDOM%280+1)) in
