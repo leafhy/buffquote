@@ -8,6 +8,6 @@ May need to create `.profile` in `/home/user` for Linux or `/Users/user` on Osx
 and add to it `sh ~/buffquote`
 Place `buffquote` in users home
 
-Verified on Salix Os and Osx 10.6.8
+Verified on Salix Os 14.1 and Osx 10.6.8
 
 Original avilable from http://www.scottro.net
