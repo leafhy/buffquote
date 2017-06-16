@@ -1,6 +1,8 @@
 # buffquote
 Add quotes from Buffy The Vampire Slayer to Terminal 
 
+This is an edited and proofed version
+
 ## How To Use
 **For Linux and Osx**
 
