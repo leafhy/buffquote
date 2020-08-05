@@ -9,6 +9,7 @@
 ##########################################################################################
 # place buffquote in /home/user
 # add the entry sh ~/buffquote to .profile or possibly .bashrc and save in /home/user
+# may need to add entry without sh for RANDOM to work
 ##########################################################################################
 clear
 case $((RANDOM%280+1)) in
