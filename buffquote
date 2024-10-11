@@ -383,10 +383,10 @@ Spike: Well, let's see - do I want you to give up killing my friends?
        Yeah, I've given it some thought."
 
 ;;
-77) echo "Wicca girl: We come together, daughters of Gaia, sisters to the
-            moon. We walk with the darkness, the wolf at our side. Through the
-            waterfall of power, to the blackest heart of eternity. I think we
-            should have a bake sale."
+77) echo "Wicca girl: We come together, daughters of Gaia, sisters to the moon.
+            We walk with the darkness, the wolf at our side.
+            Through the waterfall of power, to the blackest heart of eternity.
+            I think we should have a bake sale."
 ;;
 78) echo "Xander: Dinner is served. And my very own recipe.
 Willow: Ooh, you pushed the button on the microwave that says 'popcorn'?
@@ -402,8 +402,9 @@ Buffy: Yes, but you say that about chewing too fast."
 81) echo "Willow: I don't care if it is an orgy of death,
         there's still such a thing as a napkin."
 ;;
-82) echo "Xander: The quick draw is about more than speed. It's also
-        about pointing the stake the right way. And there can be splinter issues."
+82) echo "Xander: The quick draw is about more than speed.
+        It's also about pointing the stake the right way.
+        And there can be splinter issues."
 ;;
 83) echo "Xander: What do you feel?
 Anya: Upset, afraid of being without you, and a little hungry.
